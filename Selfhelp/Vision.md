@@ -1,0 +1,14 @@
+Kim chcę być jaka jest moja wizja siebie samego: Za dziesięć lat chcę być właścicielem samowystarczalnej, dobrej ściany wspinaczkowej która będzie dla ludzi zarówno miejscem treningu jak i również
+spotkań z przyjaciółmi, spędzania czasu wolnego, rozrywki i rozwoju. Chcę stworzyć miejsce w którym każdy będzie mógł się poczuć dobrze i będzie mógł wyrażać swoją pasję boulderingu i które będzie dla 
+mnie miejscem zarówno rozwoju jako menager, routesetter, wspinacz jak i poprostu człowiek. Z dobrą ekipą fajnych i zajawionych ludzi, wspaniałą kawiarnią/palarnią - wytwarzającą własną kawę speciality, 
+dobrą strefą gastro i fajnymi zajęciami. Do tego chcę być dobrym i spełnionym rzemieślnikiem programistą - człowiekiem który ma umiejętności żeby tworzyć nawet bardzo skomplikowane systemy, jest świadom 
+swojej wartości jako specjalista i który nadal czerpie radość z rozwijania oprogramowania - własnych projektów - webowych, zdalnych lub zwiazanych ze sztuczną inteligencją. Zarobię na ściankę pracując jako 
+deweloper, po części w pełnoprawnej pracy, po części jako freelancer. Będę miał kilka źródeł pasywnego dochodu związanego z aplikacjami które napiszę na przestrzeni lat i które będą się zwracały jeszcze przez 
+jakiś czas. W życiu prywatnym będę człowiekiem o bardzo mocnym kręgosłupie moralnym, który nie boi się wyzwań - a raczej łaknie ich i chce się rozwijać z ich pomocą, który jest szczery i prawdziwy, który 
+budzi respekt i szacunek za sprawą własnych akcji i zachowań, który jest dojrzały i odpowiedzialny. Będący podporą dla  rodziny, współpracowników i przyjaciół. Szczodry i bezinteresowny, ale jednocześnie nie pozwalający
+na brak szacunku wobec siebie i odpowiadający zaanagażowaniem na zaangażowanie innych. Nie przywiązujący wagi do rzeczy błahych a raczej skupiający się na tym co jest ważne, dla niego i jego bliskich. Ciężko pracujący, 
+zmotywowany, energiczny i skoncentrowany. Efektywny. W życiu prywatnym szczęśliwy - w związku ze wspaniałą kobietą która jest dla niego jednocześnie uzupełnieniem jak i wsparciem oraz wyznacznikiem - mająca podobne ideały
+i podobnie zmotywowana do pracy nad sobą i swoimi celami. Piękna i seksowna, świadoma i inteligentna. Zwracająca uwagę na jego niedociągnięcia, ale zawsze w sposób konstruktywny i zawsze mająca na uwadze dobro jego, związku i rodziny.
+Posiadają przynajmniej jedno dziecko, o które dbają i wychowują w zgodzie z włąsnymi przekonianiami i jego dobrem, posiadają dobrze wyszkolonego psa który jest wspaniałym uzupełnieniem rodziny. Nie mam żadnych kontuzji, jestem we wspaniałej formie
+i jestem wulkanem testosteronu, ludzie przed 30stką patrzą na mnie z zazdrością patrząc na ilość energii którą mam. Mieszkamy w bardzo dużym mieszkaniu na ostatnim piętrze - dwa piętra z tarasem w bardzo dobrej dzielnicy. Mamy vana na wycieczki lub wakacje i
+jeden samochód rodzinny, poza tym zazwyczaj przemieszczamy się po mieście rowerami. Zrealizuję moją wizję. 
