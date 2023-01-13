@@ -1,3 +1,8 @@
+**13.01.2023** Po koncercie jest ciężko, źle spałem, zrobiłem sensowny plan treningowy
+1. 14:35 - 16:00 - 1h 25m FOCUS
+2. 16:00 - 16:45 - 45m LEISURE: obiad + sprzedaż KDM
+3. 16:45 - 
+----
 **12.01.2023** Nie spałem dobrze, nie wiem czemu, ale się budziłem w nocy, musiałem załatwić buty i chwytkę, straciłem dużo czasu
 1. 14:40 - 16:10 - FOCUS - 1.5h skończyłem sprawdzanie lower i upper bound + kilka fixów, teraz dodaję przyciski.
 2. 16:10 - 16:53 - LEISURE - 43m obiad.

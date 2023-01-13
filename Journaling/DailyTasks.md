@@ -1,3 +1,8 @@
+**13.01.23**
+- Skończyć wersję 1.0 projektu: 1.5 h
+- Codewars 1.5 h
+- Przepisanie notatek 1.5 h
+----
 **12.01.23** Dzień koncertu, plus inne rzeczy: straciłem dużo czasu dzisiaj
 - sprawdzić oferty pracy, zaaplikować gdzie się da
 - lower vs upper boundary check: projekt 3h
