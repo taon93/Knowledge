@@ -1,3 +1,7 @@
+**14.01.23**
+- Codewars 1.5h
+- Przepisanie notatek 2h
+-----
 **13.01.23**
 - Skończyć wersję 1.0 projektu: 1.5 h
 - Codewars 1.5 h

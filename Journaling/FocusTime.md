@@ -1,3 +1,6 @@
+**14.01.2023** Sprzedawałem KDM, poza tym też się trochę opieprzałem - muszę wziąć się w garść i zacząć pracować regularnie od rana
+1. 16:47 -  - FOCUS
+----
 **13.01.2023** Po koncercie jest ciężko, źle spałem, zrobiłem sensowny plan treningowy
 1. 14:35 - 16:00 - 1h 25m FOCUS
 2. 16:00 - 16:45 - 45m LEISURE: obiad + sprzedaż KDM
