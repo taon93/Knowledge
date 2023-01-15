@@ -1,3 +1,8 @@
+**15.01.2023** Głodówka się zaczyna
+1. 11:05 - 12:50 - FOCUS, przerwa na zrobienie herbaty i siku poza tym nieźle
+2. 12:50 - 14:29 - LEISURE, przerwa, medytacja, telefon do mamy.
+3. 14:29 - 16:10 - FOCUS, przerwa na kawę.
+----
 **14.01.2023** Sprzedawałem KDM, poza tym też się trochę opieprzałem - muszę wziąć się w garść i zacząć pracować regularnie od rana
 1. 16:47 -  - FOCUS
 ----
