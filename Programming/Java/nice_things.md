@@ -1,4 +1,4 @@
-1. **REGEX**: Znajdywanie grup powtarzającymi się takimi samymi znakami w Stringu 
+1. **REGEX**: Znajdywanie grup powtarzającymi się takimi samymi znakami w String'u, 
 a potem iterowanie po grupach:
 ```
 Pattern SAME_DIR = Pattern.compile("(.)\\1*"); // Najistotniejsza część

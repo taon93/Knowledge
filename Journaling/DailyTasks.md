@@ -1,3 +1,7 @@
+**15.01.23** Dzisiaj na spokojnie
+- Codewars 3h
+- Przepisywanie notatek 1.5h
+----
 **14.01.23**
 - Codewars 1.5h
 - Przepisanie notatek 2h
