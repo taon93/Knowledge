@@ -1,3 +1,36 @@
+**26.01.23**
+- Przerobić wszysktkie pytania 3h DONE
+- Mergesort 1.5h
+- Codewars 1.5h
+- Linkedin + Twitter
+**25.01.23**
+- Skończyć merge sort 1.5h - sama implementacja - bez wyświetlania NOT DONE
+- Przerobić wszystkie pytania interview: pdf 3h NOT DONE: Dużo więcej czasu potrzeba 
+- Codewars 1.5h NOT DONE
+----
+**23.01.23**
+- Quicksort: poprawić interface, dodać kolorki itd, zacząć merge sort 3h.
+- Linkedin: Zacząć obserwować interesujące materiały
+- Twitter: to samo
+- Codewars: 1.5 h wieczorem po treningu.
+- Dokończyć rozdział 4 core java
+----
+**20.01.23**
+- Quicksort - sprawdzić serwer, napisać klienta 3h
+- Codewars 1.5h
+- Java Core 1.5h
+- Aplikacje do pracy
+----
+**19.01.23**
+- Projekt: skończyć quicksort - przynajmniej po stronie serwera 3h
+- Codewars 1.5h 
+- Java Core 1.5h
+----
+**18.01.23** 
+- Projekt: zrobić jak najwięcej z nowych funkcjonalności 3h
+- Codewars 1.5h
+- Spring documentation 1.5h 
+- Przepisywanie notatek
 **15.01.23** Dzisiaj na spokojnie
 - Codewars 3h
 - Przepisywanie notatek 1.5h

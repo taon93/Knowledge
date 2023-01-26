@@ -1,3 +1,8 @@
+23.01.2023
+- Zrobić mergesort sorting visualisation
+- 1.5h Codewars dziennie
+- Skończyć I tom Core Java
+----
 15.01.2023
 - Zrobić wszystkie implementacje sortujące
 - 1.5 h Codewars dziennie

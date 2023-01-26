@@ -1,59 +1,81 @@
 ### MONDAY: MULTI-JOINT + SAUNA
-1. Martwy ciąg
-2. Slam Ball
-3. Wstawanie tureckie
-   Przerwa między seriami 4 m, Ilość Serii: 4/5
+**MOBILIZACJA** Kręgosłup + core
+1. Paloff press
+2. Sięgnięcia za siebie do góry w deep squat
+3. Mobilizacja odcinka lędźwiowego przy ścianie    
+**Przerwa między seriami 1 m, Ilość serii: 3**
+**WZMACNIANIE**
+4. Martwy ciąg
+5. Slam Ball
+6. Wstawanie tureckie   
+**Przerwa między seriami 5 m, Ilość Serii: 4/5**
 
 ### TUESDAY: BACK
-1. Podciąganie
-2. Spięcia pleców do Y
-3. Wiosłowanie
-   Dodatkowo: podczas przerwy ćwiczenie z gumą na trapezoid
-   Przerwa między seriami: 4 m, Ilość serii: 5
+**MOBILIZACJA** Dolny czworoboczny
+1. Ściąganie wyciągu górnego na plecy
+2. Aktywacja dolnego czworobocznego na drążku
+3. Wznosy rąk w T w leżeniu na brzuchu: kciuki do góry
+4. Wznosy rąk w Y w leżeniu na brzuchu: można z kijem   
+**Przerwa między seriami 2 m, Ilość serii: 3**
+**WZMACNIANIE**
+5. Podciąganie
+6. Spięcia pleców do Y na piłce
+7. Wiosłowanie    
+**Przerwa między seriami: 4 m, Ilość serii: 4**
 
 ### WEDNESDAY: SHOULDERS + CLIMBING (technical/slabs)*
 1. Wyciskanie sztangi/hantli nad głowę
 2. Front lever
 3. Wznosy ramion do boków z hantlami
-4. Ćwiczenia rotatora barku: na ławeczce z hantlą
-   Przerwa między seriami 4 m, Ilość serii: 4
+4. Ćwiczenia rotatora barku: na ławeczce z hantlą   
+   **Przerwa między seriami 4 m, Ilość serii: 4**
 
-### THURSDAY: LEGS
-1. Przysiady ze sztangą
-2. Wykroki z nogą na trx'ie wybicie z pięty, w końcowej fazie wstawanie na palce
-3. Odwodzenie nogi w bok
-4. Dwugłowy uda: w leżeniu, nogi na piłce albo TRX
-   Przerwa między seriami 4 m, Ilość serii: 4
+### THURSDAY: LEGS 
+**MOBILIZACJA**
+1. Wychodzenie z kolana i barku: na pośladkowy średni (ćwiczenie od Gosi)
+2. Mostki (guma w kolanach, zwracać uwagę na pozycję miednicy)
+3. Ćwiczenie na aktywacje pośladka:  
+**Przerwa między seriami 2 m, Ilość serii: 3**
+**WZMACNIANIE**
+4. Przysiady ze sztangą
+5. Wykroki z nogą na trx'ie wybicie z pięty, w końcowej fazie wstawanie na palce
+6. Chodzenie na boki: gumy w kolanach i na stopach
+7. Dwugłowy uda: w leżeniu, nogi na piłce albo TRX    
+**Przerwa między seriami 4 m, Ilość serii: 4**
 
 ### FRIDAY: CORE + CLIMBING (open/projecting)*
 1. L-Sit na krążkach gimnastycznych
-2. Plank bokiem 30s
+2. Przywodzenie kopenhaskie ze spięciem bocznego brzucha, ręka w górze
 3. Dead bug z piłką lekarską
-4. Windshield-wipers z obciążeniem
-   Przerwa między seriami: 3 m, Ilość Serii: 4 
+4. Windshield-wipers z obciążeniem   
+**Przerwa między seriami: 3 m, Ilość Serii: 4** 
 
 ### SATURDAY: CHEST + SAUNA
-1. Wyciskanie na ławce płaskiej
-2. Rozpiętki na ławce skośnej / brama na wyciągu górnym
-3. Dipy na poręczach/ściąganie z wyciągu górnego na triceps
-   Przerwa między seriami 5 m, Ilość Serii: 4
+**MOBILIZACJA** Zębaty przedni
+1. Rozciąganie gumy do V przy ścianie 
+2. Uppercut z hantlą
+3. Single arm scapular push   
+Przerwa między seriami 2 m, Ilość serii: 3
+**WZMACNIANIE**
+4. Wyciskanie na ławce płaskiej
+5. Rozpiętki na ławce skośnej / brama na wyciągu górnym
+6. Dipy na poręczach z aktywacją w barkach    
+**Przerwa między seriami 4 m, Ilość Serii: 4**
 
-### SUNDAY: MOBILITY + CLIMBING (strength, power, overhang)*
-1. Ściąganie wyciągu górnego na plecy
-2. Wyciąg: aktywacja zębatego przedniego
-3. Wychodzenie z kolana i barku: na pośladkowy średni (ćwiczenie od Gosi)
-4. Plank kopenhaski
-5. Wychodzenie z planka do podporu
-6. Paloff press (spięcia boków brzucha trzymając wyciągu)
-7. Single Arm scap push (ćwiczenie od Gosi)
-   Przerwa między seriami: 2 m, Ilość serii: 4
+### SUNDAY: CLIMBING (strength, power, overhang)*
+**MOBILIZACJA** Barki:
+1. Ćwiczenia na obręcz barkową z kijem
+2. Ćwiczenia na łokieć golfisty i tenisisty z gumą
+3. Ćwiczenie na stożek rotatorów z hantlem   
+Przerwa między seriami 1 m, Ilość serii: 3
 
+----
 **BOULDERING - PERIODYZACJA**:
 Part: 4on 1off - Deload
 Volume goes down and intensity goes up throughout a training period
 One Period: 4 parts + 2 weeks compleatly off.
 
-Strengh and power: Gym -> Kilter -> Gym -> Campus/Hangboard
+Strength and power: Gym -> Kilter -> Gym -> Campus/Hangboard
 Deload: Fasting + more cardio, endurance climbing + massage
 
 

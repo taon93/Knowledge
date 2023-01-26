@@ -1,3 +1,37 @@
+**26.01.2023**
+1. 11:42 - 13:12 - FOCUS
+2. 16:56 - skończyłem pdfa z pytaniami
+3. 
+**25.01.2023** Muszę się bardziej pilnować z notowaniem:
+1. 13:00 - 14:30 - FOCUS, Interview prep I
+2. 14:30 - 15:20 - LEISURE
+3. 15:20 - 16:50 - FOCUS, Interview prep II
+**20.01.2023**
+1. 09:00 - 10:30 - 1.5h FOCUS, Projekt I
+2. 10:30 - 11:02 - 32m LEISURE, Kawa i śniadanie
+3. 11:02 - 12:30 - 1.5h FOCUS, Projekt II
+4. 12:30 - 13:42 - 1h 12m LEISURE, Ogarnianie kartonów na okna (nieudane), zmywanie
+5. 13:42 - 15:08 - 1.5 FOCUS, Codewars
+6. 15:08 - 15:28 - 20m LEISURE, Kakao i Obiad
+7. 15:28 - 17:00 - 1.5h FOCUS, Czytanie Core Java
+----
+**19.01.2023**
+1. 8:30 - 10:00 - FOCUS 1.5h PROJEKT I
+2. 10:00 - 10:35 - LEISURE 35m - śniadanie i kawa
+3. 10:35 - 12:15 - FOCUS 1h 40m PROJEKT II
+4. 12:15 - 12:49 - LEISURE 34m - medytacja
+5. 12:50 - 14:20 - FOCUS - CODEWARS
+6. 14:20 - 15:13 - LEISURE 53m - odkurzanie + lunch
+7. 15:15 - 16:45 - FOCUS - Java Core: książka
+----
+**18.01.2023**
+1. 10:00 - 11:00 - FOCUS - 1h
+2. 11:00 - 11:55 - LEISURE - 55m Hummus, Kawa, śniadanie
+3. 11:55 - 14:20+- - FOCUS - średnio dzisiaj pracuję, robię dużo przerw na jedzenie: od jutra nie ma czegoś takiego jem tylko na przerwach bo inaczej za dużo czasu na to tracę i mam podwyższony cukier: za duże wahania energii - muszę skończyć z imbirem: ogólnie rzeczy z cukrem mnie niszczą.
+4. Nie wiem ile: przerwa na jedznie i spanie
+5. 16:05 - 17:47 - FOCUS - 1h 42m
+----
+GŁODÓWKA: :NIE ROBIŁEM PRAKTYCZNIE NIC
 **15.01.2023** Głodówka się zaczyna
 1. 11:05 - 12:50 - FOCUS, przerwa na zrobienie herbaty i siku poza tym nieźle
 2. 12:50 - 14:29 - LEISURE, przerwa, medytacja, telefon do mamy.
