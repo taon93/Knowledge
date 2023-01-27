@@ -3,7 +3,7 @@
 1. Paloff press
 2. Sięgnięcia za siebie do góry w deep squat
 3. Mobilizacja odcinka lędźwiowego przy ścianie    
-**Przerwa między seriami 1 m, Ilość serii: 3**
+**Przerwa między seriami 1 m, Ilość serii: 3**     
 **WZMACNIANIE**
 4. Martwy ciąg
 5. Slam Ball
@@ -16,7 +16,7 @@
 2. Aktywacja dolnego czworobocznego na drążku
 3. Wznosy rąk w T w leżeniu na brzuchu: kciuki do góry
 4. Wznosy rąk w Y w leżeniu na brzuchu: można z kijem   
-**Przerwa między seriami 2 m, Ilość serii: 3**
+**Przerwa między seriami 2 m, Ilość serii: 3**   
 **WZMACNIANIE**
 5. Podciąganie
 6. Spięcia pleców do Y na piłce
@@ -35,7 +35,7 @@
 1. Wychodzenie z kolana i barku: na pośladkowy średni (ćwiczenie od Gosi)
 2. Mostki (guma w kolanach, zwracać uwagę na pozycję miednicy)
 3. Ćwiczenie na aktywacje pośladka:  
-**Przerwa między seriami 2 m, Ilość serii: 3**
+**Przerwa między seriami 2 m, Ilość serii: 3**    
 **WZMACNIANIE**
 4. Przysiady ze sztangą
 5. Wykroki z nogą na trx'ie wybicie z pięty, w końcowej fazie wstawanie na palce
@@ -55,7 +55,7 @@
 1. Rozciąganie gumy do V przy ścianie 
 2. Uppercut z hantlą
 3. Single arm scapular push   
-Przerwa między seriami 2 m, Ilość serii: 3
+**Przerwa między seriami 2 m, Ilość serii: 3**   
 **WZMACNIANIE**
 4. Wyciskanie na ławce płaskiej
 5. Rozpiętki na ławce skośnej / brama na wyciągu górnym
@@ -67,7 +67,7 @@ Przerwa między seriami 2 m, Ilość serii: 3
 1. Ćwiczenia na obręcz barkową z kijem
 2. Ćwiczenia na łokieć golfisty i tenisisty z gumą
 3. Ćwiczenie na stożek rotatorów z hantlem   
-Przerwa między seriami 1 m, Ilość serii: 3
+Przerwa między seriami 1 m, Ilość serii: 3   
 
 ----
 **BOULDERING - PERIODYZACJA**:

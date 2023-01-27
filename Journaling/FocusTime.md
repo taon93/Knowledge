@@ -1,3 +1,5 @@
+**27.01.2023**
+1. 14:48 - 16:18 - FOCUS: LinkedIn, CV.
 **26.01.2023**
 1. 11:42 - 13:12 - FOCUS
 2. 16:56 - skończyłem pdfa z pytaniami
