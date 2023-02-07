@@ -1,5 +1,7 @@
+**29.01.23**
+- MergeSort 1.5h
 **26.01.23**
-- Przerobić wszysktkie pytania 3h DONE
+- Przerobić wszystkie pytania 3h DONE
 - Mergesort 1.5h
 - Codewars 1.5h
 - Linkedin + Twitter
