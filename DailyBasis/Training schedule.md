@@ -11,14 +11,16 @@
 10. Ćwiczenie na aktywacje pośladka: z athletic development
 11. Single arm scapular push
 12. Warrior Poses I & II
+13. Prostowanie nóg w skłonie
+14. Rolowanie barków w leżeniu na brzuchu
+15. Ćwiczenie z klinem Klatenberga
+16. Stomach Vacuums
 -	**3x** Póki co 1x - zobaczyć jak będę się czuł
        - Pompki
        - Dead Bug
        - Wychodzenie do świecy
        - Przysiady Sumo + Kozaki
        - Mostki (guma w kolanach, zwracać uwagę na pozycję miednicy)
--	Stomach Vacuums
--	Ćwiczenie z klinem Klatenberga
 
 ## Ćwiczenia mobilizacyjne:
 **3x** 2m przerwy między seriami
