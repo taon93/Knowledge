@@ -55,6 +55,7 @@
 13. Wstawanie tureckie
 14. Kozaki + przysiady przy ścianie
 15. Martwy Ciąg
+16. Opcjonalnie: Brama
 
 #### **Poniedziałek:**
 #### **Wtorek:** Wspinanie
