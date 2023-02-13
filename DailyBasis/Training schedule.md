@@ -16,7 +16,7 @@
 15. Ćwiczenie z klinem Klatenberga
 16. Stomach Vacuums
 -	**3x** Póki co 1x - zobaczyć jak będę się czuł
-       - Pompki
+       - Wychodzenie z mostków
        - Dead Bug
        - Wychodzenie do świecy
        - Przysiady Sumo + Kozaki
