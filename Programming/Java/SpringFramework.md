@@ -1,5 +1,6 @@
 # CORE
-
+## Spring Properties: 
+Main properties are defined in `application.properties` but they may be overridden, appended by properties specified as active properties of the project.
 ## IoC container:
 > ***IoC: Inversion of Control, aka Dependency Injection*** - *design pattern in which, objects define dependencies that
 > they need but those dependencies are managed and controlled by the other entity, which injects them to the object during its creation*
