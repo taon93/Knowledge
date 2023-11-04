@@ -5,9 +5,9 @@
 - **SE** Standard edition
 
 > Running java via commandline:   
-> **javac**: compiles *.java files -> creates *.class programs - that are written in bytecode. (JDK)   
-> **java**: launches VM, executes bytecode from *.class files. (JRE)   
-> **jshell**: commandline program for running java procedures (JDK)
+> **javac**: compiles *.java files -> creates *.class programs - that are written in bytecode.    
+> **java**: launches VM, executes bytecode from *.class files.
+> **jshell**: commandline program for running java procedures
 ### JVM: 
 **Java Virtual Machine** - environment on which Java programs run that is independent of the platform.
 When it starts, it reserves part of RAM for java application.
@@ -24,36 +24,34 @@ stored on the heap). Each method is represented by one block of the memory, when
 ----
 **HEAP MEMORY**
 Contains all the objects that exist in the application. Objects on the heap contain primitive values and references to other
-objects on the heap. When an object on the heap is no longer connected (directly or indirectly) to the stack memory, it is garbage
+objects on the heap. When object on the heap is no longer connected (directly or indirectly) to the stack memory it is garbage
 eligible. 
 ---
 **STRING POOL**
-Strings are created on the string pool — when a new String is created (existing one is changed: which is basically the same),
+Strings are created on the string pool -
+when new String is created (existing one is changed: which is basically the same),
 compiler checks if there is another that has the same value and if so it only creates new reference.
 ----
 ### Garbage Collector:   
-It is run by JVM and when it will be called is dependent on the JVM (I think that there is an actual GC thread). Possible
+It is run by JVM and when it will be called is dependent on the JVM (I think that there is actual GC thread). Possible
 situations when GC will be run: 1. When memory on the heap is low 2. When CPU is free 3. When **requested** (only requested) by the developer: running `System.gc()`
 JVM will throw `OutOfMemoryException` when memory is full but there are no GC eligible objects on the heap.
 ### Serialization: 
-Act of saving state of the object to some other representation (ie.
-JSON).
-Deserialization is reverse operation.
-To serialize an object, it must implement a Serializable interface.
+Act of saving state of the object to some other representation (ie. JSON). Deserialization is reverse operation. To serialize an object it must implement Serializable interface.
 You may use `ObjectOutputStream.writeObject()` for serialization and `ObjectInputStream.readObject` for deserialization.
 ```java
 public class someClass {
   // ...
   public void someMethod() {
     // *********** SERIALIZATION *****************
-    FileOutputStream fos = new FileOutputStream("Rectangle.ser");
-    ObjectOutputStream oos = new ObjectOutputStream(fos);
+    FileOutputStream fos=new FileOutputStream("Rectangle.ser");
+    ObjectOutputStream oos=new ObjectOutputStream(fos);
     oos.writeObject(new Rectangle(4,5));
     oos.close();
     // ...
     // ********** DESERIALIZATION ****************
-    FileInputStream fis = new FileInputStream("Rectangle.ser");
-    ObjectInputStream ois = new ObjectInputStream(fis);
+    FileInputStream fis=new FileInputStream("Rectangle.ser");
+    ObjectInputStream ois=new ObjectInputStream(fis);
     Rectangle rect=(Rectangle)ois.readObject();
     ois.close();
     // ...
@@ -73,23 +71,20 @@ must be marked as `transient` in the class declaration. Otherwise exception will
   applet when you visit its webpage - it's automatically used.
 
 ### Miscellaneous
-- **Final classes can't be subclassed**
+- **Final classes cannot be subclassed**
 - **Constructor can be called only from another constructor within the class (not any other method)**
-- **Class with only private constructors can't be subclassed**
-- **Final methods can't be overridden**
-- **Uninitialized local primitives don't have value and can't be read**
-- Only Strings that are Strings literals are shared,
-  not Strings that are the result of concatenation, substrings or String objects, all of them
-  are immutable though.
-- String can be `null` or empty: `""` - when checking both, first check is string is not null: `str != null && str.lenght() != 0`, invoking method on
+- **Class with only private constructors cannot be subclassed**
+- **Final methods cannot be overridden**
+- **Uninitialized local primitives don't have value and cannot be read**
+- Only Strings that are Strings literals are shared, not Strings that are the result of concatenation, substrings of String objects, all of them
+are immutable though.
+- String can be `null` or empty: `""` - when checking both, first check is string is not null: `str ~= null && str.lenght() != 0`, invoking method on
 not an assigned object will throw an error.
 - You can have only one public class in the source file (non-public classes are not limited).
 - Local variables shadow class fields
-- Object has methods: `requireNotNull(checkedObject, exceptionMessage)` and `requireNotNullOrElse(checkedObject, defaultValue)`
+- Object has methods: `requireNotNull(checkedField, exceptionMessage)` and `requireNotNullOrElse(checkedField, defaultValue)`
 first method will throw an exception if checkedField is not set - has `null` value, second method will set checkedField with
 default value if not set.
-
-
 
 ```java
 class A {
@@ -109,8 +104,8 @@ class B extends A {
 }
 ```
 This example is invalid: as B::method has a default access modifier, which is stricter than protected from A::method
-- Abstract classes can't be instantiated
-- Switch `default` case doesn't need to be at the end and will be invoked only if better match is not found: regardless of the order.
+- Abstract classes cannot be instantiated
+- Switch `default` case don't need to be at the end and will be invoked only if better match is not found: regardless of the order.
 - Class with abstract method, must be abstract itself
 - super keyword access overriden method.
 - **You CANNOT invoke `this()` and `super()` in the same constructor (only one `this` or one `super` may be invoked in the constructor)**
@@ -134,7 +129,7 @@ String str1 = "0"
 for(int i = 0; i < 10; i++) str1 += i; // 11 Strings created: one used and rest GC eligible
 ```
 > **Coupling**  
-> Measure of how much a class is dependent on the other class; usually coupling should be minimized.    
+> Measure of how much a class is dependent on the other class, usually coupling should be minimized.    
 > **Cohesion**
 > Measure of how related are responsibilities of the class. Class should be highly cohesive: its responsibilities should
 > be highly related to each other.
@@ -144,7 +139,7 @@ for(int i = 0; i < 10; i++) str1 += i; // 11 Strings created: one used and rest 
 > **Interfaces:**
 > - variables of the interfaces are always `public static final`, if you define any different scope - it will result with compile time error.
 > - interface methods are by default `public abstract`, after java 8 you may specify concrete default implementations for the interface.
-> - interface can extend another interface but can't extend the class. `interface SubInterface extends ExampleInterface {...}`.
+> - interface can extend another interface but cannot extend the class. `interface SubInterface extends ExampleInterface {...}`.
 ----
 > **`.euqals()** should satisfy 5 conditions: 
 > 1. Reflexive: for any x `x.equals(x)` should yield `true`.
@@ -159,7 +154,7 @@ for(int i = 0; i < 10; i++) str1 += i; // 11 Strings created: one used and rest 
 method can have only one vararg argument, and it must be at the end of the declaration (last parameter). https://www.baeldung.com/java-varargs   
 ----
 > **Abstract Classes**:   
-> Are classes that can't be instantiated but instead should be extended: they may be fully, partially or not implemented: some or all 
+> Are classes that cannot be instantiated but instead should be extended: they may be fully, partially or not implemented: some or all 
 > of the methods don't have implementation. Use abstract classes if you have more defined ***"is-a"*** relation between subclasses extending 
 > abstract class. Use interfaces when you want to point out that given class shares behaviour of the interface. **Abstract methods** don't have
 > any body: `abstract void abstractMethod1(int value);` and may be declared only in abstract class (if defined in normal class it will result in compiler error)   
@@ -171,11 +166,11 @@ method can have only one vararg argument, and it must be at the end of the decla
 ----
 **SCOPE MODIFIERS** 
 - Private: only within the class.
-- Default: private + subclasses within the package
+- Default: private + within the package
 - Protected: default + subclasses that are outside the package
 - Public: everywhere
 - **The Overriding method must have the same or less strict modifiers than method from super class** SUPER -> STRICTER, SUB -> MORE LOSE
-- Default class with public methods will act like an entire default class: you can't access methods if you can't access class in the first place.
+- Default class with public methods will act like an entire default class: you cannot access methods if you cannot access class in the first place.
 - If there is subclass outside the package that has an instance of the superclass,
   it will not be able to access methods of superclass through this instance,
 only through inheitance (TODO: check this: I think this should be specified for non-public superclass).
@@ -245,7 +240,7 @@ public void someMethod() throws SomeException {
 try {
     someMethod();
 }
-catch (SomeException e) { e.printStackTrace(); }
+catch (SomeException(e) { e.printStackTrace(); }
 finally {
     doRegardlessIfSuccessOrFailure()
 }
@@ -254,7 +249,7 @@ finally {
 - `finally` block will not finish if a) exception will be thrown in `finally` itself, b) JVM will crash.
 - you can use `try` block without `catch` - it may be used if you want to do something in `finally` block even if exception 
 occurs, without handling this exception. `try` is not allowed if both `catch` and `finally` are missing.
-- If the try or catch blocks return something, Finally block will be invoked just before
+- Jf the try or catch blocks return something, Finally block will be invoked just before
 return. 
 - If method throws more than one exception, but they have a common superclass, then they may be caught in one block of this superclass
 typeof exception - this is not mandatory: you may divide exception handlers to more `catch` blocs, but all exceptions must be properly 
@@ -283,7 +278,7 @@ myFunction()  throws RiskyException {
 ```
 ### Good exception handling practices:
 1) Never hide exceptions: at least use `printStackTrace()`
-2) Don't use exceptions for flow control (there is performance impact). 
+2) Do not use exceptions for flow control (there is performance impact). 
 3) Think about user and developer - what they need to get when exception will happen
 4) Can calling do something about exception if not: make unchecked exception or error exception
 
@@ -291,7 +286,7 @@ myFunction()  throws RiskyException {
 Throwable -> extended by: Error, Exception & RuntimeException -> Programmer defined exceptions.
 1) `Error` : is used in situations when nothing can be done about error
 2) `Exception` : exception can be handled
-3) `RuntimeException` : unchecked exceptions - they aren't checked during copilation.
+3) `RuntimeException` : unchecked exceptions - they are not checked during copilation.
 ----
 ### Multithreading and concurrency:
 
@@ -320,11 +315,11 @@ class Duck {
 - If an object has more than one synchronised method, then it means that each of those methods is blocked when a single thread runs in
 any of them: If any of the synchronised method is accessed by the thread, any synchronised method of this object is locked for 
 any thread except this one, until it will not leave synchronised scope.
-- Locking and unlocking methods is handled by the JVM (you can't tinker with this).
+- Locking and unlocking methods is handled by the JVM (you cannot tinker with this).
 - There is one key for each object and one lock per class (for accessing static states and behaviours)
 - **Atomic Variables** assure that setting and reading of this variable are done at once in one thread (without switching)
-- **CAS** - compare & set - variable check if the value that the value that they want to set is correct (wasn't changed in the
-meantime by another thread) and if so they atomically change it, they return boolean (set to false if operation doesn't succeed)
+- **CAS** - compare & set - variable check if the value that the value that they want to set is correct (was not changed in the
+meantime by another thread) and if so they atomically change it, they return boolean (set to false if operation does not succeed)
 - The best way to work with thread is to use immutable objects and swap them instead of updating - by doing so; threads may work 
 independent of others. 
 - To work with collections in multithreading applications use `CopyOnWrite<Collection>` i.e. `CopyOnWriteMap` 
