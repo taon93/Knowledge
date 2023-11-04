@@ -2,9 +2,9 @@
 - Dependence: "uses-a"
 - Aggregation: "has-a"
 - Inheritance: "is-a"
-![img.png](resources/img.png)
+![img.png](../resources/img.png)
 ## Observer
-![img.png](resources/ObserverPatternUML.PNG)   
+![img.png](../resources/ObserverPatternUML.PNG)   
 
 Observers are added to **Observed**'s collection by invoking `register()` (and removed by `unregister()`), when state of **Observed**
 changes it calls `notify()` which iterates through collection and calls `update()` of its members, in update method **Observer**s
